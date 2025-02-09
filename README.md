@@ -18,7 +18,7 @@ Brochure-Making-LLM is an innovative Python project that leverages a Large Langu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/brochure-making-llm.git
+   git clone https://github.com/<Devanand-Binil>/brochure-making-llm.git
    cd brochure-making-llm
    ```
 
